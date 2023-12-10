@@ -1,1 +1,0 @@
-grep -A1 '>' *_cds* | cut -b1-3  | sort | uniq -c | sort >start.txt
