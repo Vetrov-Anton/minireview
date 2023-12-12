@@ -1,0 +1,179 @@
+31555	31560	FAD-binding oxidoreductase	(Fe-S)-binding protein
+64971	64968	pyruvate ferredoxin oxidoreductase subunit gamma	pyruvate synthase subunit PorD
+65252	65252	pyruvate synthase subunit PorD	pyruvate synthase subunit PorA
+66460	66457	pyruvate synthase subunit PorA	pyruvate synthase subunit PorB
+96666	96663	aspartate carbamoyltransferase	aspartate carbamoyltransferase regulatory subunit
+153595	153579	DUF354 domain-containing protein	polysaccharide deacetylase family protein
+195741	195746	proteasome assembly chaperone family protein	DUF473 domain-containing protein
+202672	202669	hypothetical protein	hypothetical protein
+244812	244784	response regulator	response regulator
+258458	258451	ATP-binding cassette domain-containing protein	ABC transporter permease
+296342	296343	type III-B CRISPR module RAMP protein Cmr1	hypothetical protein
+297617	297607	hypothetical protein	CRISPR-associated protein Csx11
+300393	300394	CRISPR-associated protein Csx11	type III-B CRISPR module RAMP protein Cmr4
+301362	301352	type III-B CRISPR module RAMP protein Cmr4	hypothetical protein
+301744	301746	hypothetical protein	RAMP superfamily CRISPR-associated protein
+321577	321574	RND family transporter	hypothetical protein
+322719	322712	hypothetical protein	COG1361 S-layer family protein
+330643	330640	tetrahydromethanopterin S-methyltransferase subunit E	tetrahydromethanopterin S-methyltransferase subunit D
+331392	331394	tetrahydromethanopterin S-methyltransferase subunit D	tetrahydromethanopterin S-methyltransferase subunit C
+332194	332191	tetrahydromethanopterin S-methyltransferase subunit C	tetrahydromethanopterin S-methyltransferase subunit B
+332517	332519	tetrahydromethanopterin S-methyltransferase subunit B	tetrahydromethanopterin S-methyltransferase subunit A
+333241	333241	tetrahydromethanopterin S-methyltransferase subunit A	tetrahydromethanopterin S-methyltransferase subunit F
+369392	369379	aconitase X	DUF126 domain-containing protein
+399068	399065	SWIM zinc finger domain-containing protein	hypothetical protein
+437024	437017	ABC transporter permease	ABC transporter ATP-binding protein
+528048	528033	formylmethanofuran dehydrogenase subunit B	formylmethanofuran dehydrogenase subunit A
+529748	529750	formylmethanofuran dehydrogenase subunit A	formylmethanofuran dehydrogenase subunit C
+579552	579554	DMT family transporter	hypothetical protein
+595633	595630	winged helix-turn-helix domain-containing protein/riboflavin kinase	3,4-dihydroxy-2-butanone-4-phosphate synthase
+599460	599448	PKD domain-containing protein	PKD domain-containing protein
+710609	710611	DEAD/DEAH box helicase	SWIM zinc finger family protein
+786719	786716	glycosyltransferase	hypothetical protein
+798476	798473	translation initiation factor IF-2 subunit gamma	DNA-binding protein
+799685	799687	DNA-directed RNA polymerase subunit E''	GTP-dependent dephospho-CoA kinase family protein
+800274	800255	GTP-dependent dephospho-CoA kinase family protein	30S ribosomal protein S24e
+806146	806139	bifunctional N(6)-L-threonylcarbamoyladenine synthase/serine/threonine protein kinase	XTP/dITP diphosphatase
+860028	860028	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	carbamoyl-phosphate synthase large subunit
+893512	893517	methanogenesis marker protein Mmp4/MtxX	tetrahydromethanopterin S-methyltransferase subunit A
+934880	934881	ABC transporter ATP-binding protein	ABC transporter permease
+935987	935989	ABC transporter permease	hypothetical protein
+938924	938905	hypothetical protein	hypothetical protein
+962574	962579	deoxyhypusine synthase	orotidine-5'-phosphate decarboxylase
+966289	966277	hypothetical protein	hypothetical protein
+966441	966434	hypothetical protein	hypothetical protein
+966649	966652	hypothetical protein	hypothetical protein
+976807	976794	hypothetical protein	DUF1788 domain-containing protein
+986698	986695	BREX-1 system phosphatase PglZ type B	protease Lon-related BREX system protein BrxL
+998435	998432	indolepyruvate ferredoxin oxidoreductase subunit alpha	indolepyruvate oxidoreductase subunit beta
+1008573	1008570	glycosyltransferase family 4 protein	radical SAM protein
+1012386	1012379	glycosyltransferase	class I SAM-dependent methyltransferase
+1033277	1033252	hypothetical protein	ISAzo13 family transposase
+1039253	1039255	NAD(P)-dependent oxidoreductase	NAD-dependent epimerase/dehydratase family protein
+1156583	1156580	YnfA family protein	YnfA family protein
+1190627	1190630	CidA/LrgA family protein	LrgB family protein
+1230723	1230720	rhomboid family intramembrane serine protease	hypothetical protein
+1242882	1242879	type I restriction-modification system subunit M	restriction endonuclease subunit S
+1244183	1244180	restriction endonuclease subunit S	HsdR family type I site-specific deoxyribonuclease
+1247320	1247320	HsdR family type I site-specific deoxyribonuclease	SprT family zinc-dependent metalloprotease
+1252021	1252021	acetolactate synthase large subunit	acetolactate synthase small subunit
+1280537	1280509	phosphatase PAP2 family protein	glycosyltransferase
+1326645	1326642	hypothetical protein	ABC transporter permease
+1356406	1356409	L-aspartate semialdehyde sulfurtransferase	4Fe-4S binding protein
+1385270	1385267	hypothetical protein	PGF-pre-PGF domain-containing protein
+1466001	1465998	class I SAM-dependent methyltransferase	class I SAM-dependent methyltransferase
+1501902	1501902	ArsR family transcriptional regulator	winged helix-turn-helix transcriptional regulator
+1511364	1511348	ABC transporter permease	nickel ABC transporter permease subunit NikC
+1512259	1512256	nickel ABC transporter permease subunit NikC	ABC transporter ATP-binding protein
+1513299	1513287	ABC transporter ATP-binding protein	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+1532859	1532856	energy-coupling factor ABC transporter permease	energy-coupling factor ABC transporter substrate-binding protein
+1541458	1541459	type II CAAX endopeptidase family protein	MFS transporter
+1569547	1569544	tetratricopeptide repeat protein	hypothetical protein
+1569753	1569750	hypothetical protein	hypothetical protein
+1612385	1612388	3-methyl-2-oxobutanoate dehydrogenase subunit VorB	2-oxoacid:acceptor oxidoreductase family protein
+1774467	1774464	DUF1890 domain-containing protein	DUF1894 domain-containing protein
+1787384	1787377	O-phospho-L-seryl-tRNA:Cys-tRNA synthase	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase
+1825797	1825781	hypothetical protein	amino acid kinase
+1920155	1920143	F420H2 dehydrogenase subunit FpoA	F(420)H(2) dehydrogenase subunit B
+1923401	1923406	F420H2 dehydrogenase subunit FpoH	F420H2 dehydrogenase subunit FpoI
+1923816	1923813	F420H2 dehydrogenase subunit FpoI	NADH-quinone oxidoreductase subunit J
+1924103	1924093	NADH-quinone oxidoreductase subunit J	F420H2 dehydrogenase subunit FpoJ
+1924684	1924678	F420H2 dehydrogenase subunit FpoK	F420H2 dehydrogenase subunit FpoL
+1926696	1926696	F420H2 dehydrogenase subunit FpoL	F(420)H(2) dehydrogenase subunit M
+1928183	1928187	F(420)H(2) dehydrogenase subunit M	F(420)H(2) dehydrogenase subunit N
+1992107	1992112	zinc ribbon domain-containing protein	zinc ribbon domain-containing protein
+2047220	2047213	type II toxin-antitoxin system HicB family antitoxin	type II toxin-antitoxin system HicA family toxin
+2091929	2091934	AI-2E family transporter	hypothetical protein
+2103137	2103130	hypothetical protein	hypothetical protein
+2137277	2137255	glycosyltransferase family 2 protein	lysylphosphatidylglycerol synthase transmembrane domain-containing protein
+2145014	2145011	type II toxin-antitoxin system HicB family antitoxin	type II toxin-antitoxin system HicA family toxin
+2164661	2164634	hypothetical protein	iron-sulfur cluster assembly protein
+2168987	2168987	fumarate hydratase	FumA C-terminus/TtdB family hydratase beta subunit
+2225188	2225188	CoB-CoM heterodisulfide reductase HdrA2	4Fe-4S binding protein
+2236626	2236630	iron-containing alcohol dehydrogenase	hypothetical protein
+2293116	2293113	4Fe-4S binding protein	digeranylgeranylglycerophospholipid reductase
+2314218	2314219	hypothetical protein	mechanosensitive ion channel
+2352091	2352088	class I SAM-dependent DNA methyltransferase	restriction endonuclease subunit S
+2353305	2353302	restriction endonuclease subunit S	DEAD/DEAH box helicase family protein
+2379180	2379177	BatA and WFA domain-containing protein	vWA domain-containing protein
+2461272	2461269	phosphoglucosamine mutase	sugar phosphate nucleotidyltransferase
+2474762	2474737	hypothetical protein	ISAzo13 family transposase
+2481006	2481003	tetratricopeptide repeat protein	hypothetical protein
+2481212	2481209	hypothetical protein	hypothetical protein
+2508110	2508110	formylmethanofuran dehydrogenase subunit B	formylmethanofuran dehydrogenase
+2519096	2519093	indolepyruvate ferredoxin oxidoreductase subunit alpha	indolepyruvate oxidoreductase subunit beta
+2526207	2526195	DUF432 domain-containing protein	mechanosensitive ion channel family protein
+2585251	2585253	bifunctional fructose-bisphosphatase/inositol-phosphate phosphatase	NAD(+)/NADH kinase
+2691205	2691207	nucleotide exchange factor GrpE	Hsp70 family protein
+2729252	2729249	(Fe-S)-binding protein	aldehyde ferredoxin oxidoreductase family protein
+2733759	2733752	ABC transporter ATP-binding protein	ABC transporter ATP-binding protein
+2737837	2737821	ABC transporter permease	ABC transporter permease
+2759518	2759508	class I SAM-dependent DNA methyltransferase	restriction endonuclease subunit S
+2839370	2839367	iron ABC transporter permease	ABC transporter ATP-binding protein
+2853862	2853863	hypothetical protein	4Fe-4S cluster-binding domain-containing protein
+2866891	2866888	type I-C CRISPR-associated protein Cas5c	type I-C CRISPR-associated protein Cas8c/Csd1
+2868780	2868777	type I-C CRISPR-associated protein Cas8c/Csd1	type I-C CRISPR-associated protein Cas7/Csd2
+2895843	2895848	ATPase	methanogen output domain 1-containing protein
+2899131	2899136	PadR family transcriptional regulator	MFS transporter
+2918387	2918380	sugar O-acetyltransferase	flavodoxin family protein
+2960929	2960926	hypothetical protein	MoaD/ThiS family protein
+3133106	3133110	ATP-binding cassette domain-containing protein	ABC transporter permease
+3140503	3140500	inorganic phosphate transporter	TIGR00153 family protein
+3146418	3146387	type II toxin-antitoxin system HicB family antitoxin	type II toxin-antitoxin system HicA family toxin
+3147805	3147798	type II toxin-antitoxin system HicB family antitoxin	type II toxin-antitoxin system HicA family toxin
+3296775	3296760	hypothetical protein	ATP-binding protein
+3302813	3302794	hypoxanthine/guanine phosphoribosyltransferase	diphthamide biosynthesis enzyme Dph2
+3356066	3356066	hydrogenase small subunit	nickel-dependent hydrogenase large subunit
+3367996	3367993	ATP-binding protein	ATP-binding protein
+3387966	3387963	hypothetical protein	acetate--CoA ligase family protein
+3389637	3389634	MarR family transcriptional regulator	hypothetical protein
+3433498	3433500	translation initiation factor eIF-1A	serine protein kinase RIO
+3434282	3434284	serine protein kinase RIO	KH domain-containing protein
+3465579	3465580	4Fe-4S binding protein	formylmethanofuran dehydrogenase subunit A
+3468650	3468647	formylmethanofuran dehydrogenase	formylmethanofuran dehydrogenase subunit B
+3502513	3502513	hypothetical protein	hypothetical protein
+3503064	3503054	hypothetical protein	hypothetical protein
+3505200	3505197	nucleotidyltransferase family protein	DUF86 domain-containing protein
+3524688	3524685	ribosome rescue protein RqcH	mRNA surveillance protein pelota
+3540752	3540749	hypothetical protein	hypothetical protein
+3541390	3541390	hypothetical protein	phage/plasmid primase, P4 family
+3561214	3561198	biotin--[acetyl-CoA-carboxylase] ligase	S-layer protein domain-containing protein
+3571367	3571372	respiratory nitrate reductase subunit gamma	dihydromethanophenazine:CoB--CoM heterodisulfide reductase subunit HdrD
+3573344	3573337	DUF116 domain-containing protein	DUF116 domain-containing protein
+3580506	3580503	FAD-dependent oxidoreductase	geranylgeranyl reductase family protein
+3583461	3583448	methanogenesis marker 9 domain-containing protein	triphosphoribosyl-dephospho-CoA synthase
+3584491	3584488	triphosphoribosyl-dephospho-CoA synthase	DUF447 family protein
+3617010	3617000	hypothetical protein	UDP-2,3-diacylglucosamine diphosphatase
+3705312	3705288	energy-coupling factor transporter ATPase	ATP-binding cassette domain-containing protein
+3707492	3707489	metalloregulator ArsR/SmtB family transcription factor	SO_0444 family Cu/Zn efflux transporter
+3731403	3731396	nicotianamine synthase family protein	nicotianamine synthase family protein
+3778428	3778425	transcriptional regulator	Nre family DNA repair protein
+3782719	3782721	ATP-binding protein	MBL fold metallo-hydrolase
+3805908	3805908	permease	permease
+3810391	3810336	hypothetical protein	MarR family transcriptional regulator
+3826180	3826156	hypothetical protein	geranylfarnesyl diphosphate synthase
+3829461	3829454	ATP synthase archaeal subunit H	V-type ATP synthase subunit I
+3831388	3831393	V-type ATP synthase subunit I	ATP synthase
+3833473	3833473	V-type ATP synthase subunit C	V-type ATP synthase subunit F
+3833775	3833766	V-type ATP synthase subunit F	ATP synthase subunit A
+3835502	3835505	ATP synthase subunit A	ATP synthase subunit B
+3889368	3889361	hypothetical protein	CDC48 family AAA ATPase
+3987504	3987497	FmdE family protein	tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO
+4010821	4010818	nucleotidyltransferase	DUF86 domain-containing protein
+4091070	4091067	MFS transporter	MFS transporter
+4126758	4126727	cobalamin biosynthesis protein	precorrin-3B C(17)-methyltransferase
+4127527	4127517	precorrin-3B C(17)-methyltransferase	precorrin-8X methylmutase
+4131671	4131659	TIGR04255 family protein	hypothetical protein
+4163431	4163428	ATP-binding cassette domain-containing protein	ABC transporter permease
+4252278	4252279	4Fe-4S binding protein	formylmethanofuran dehydrogenase subunit A
+4254033	4254038	formylmethanofuran dehydrogenase subunit A	formylmethanofuran dehydrogenase subunit C
+4255343	4255346	formylmethanofuran dehydrogenase	formylmethanofuran dehydrogenase subunit B
+4282165	4282162	DUF4258 domain-containing protein	type II toxin-antitoxin system MqsA family antitoxin
+4293099	4293084	YcaO-related McrA-glycine thioamidation protein	TfuA-related McrA-glycine thioamidation protein
+4317490	4317477	amino acid permease	hypothetical protein
+4340209	4340190	acetylornithine transaminase	histidinol-phosphate transaminase
+4345342	4345320	NUDIX hydrolase	transcription factor S
+4346669	4346671	DNA polymerase sliding clamp	DNA primase regulatory subunit PriL
+4352586	4352587	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+4404849	4404846	type I 3-dehydroquinate dehydratase	shikimate dehydrogenase
+4454138	4454095	hypothetical protein	winged helix-turn-helix transcriptional regulator
