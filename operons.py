@@ -1,3 +1,4 @@
+#hghghghgh
 f = open('table.txt')
 c = f.readlines()
 s = []
